@@ -1,6 +1,6 @@
 <h4>DroidAmp<br></h4>
 <br>
-Winamptan esinlenilse de bir android uygulaması.<br>
+Winamp'tan esinlenilse de bir android uygulaması.<br>
 Android 9 ve üzeri tavsiye edilir. (Api 28 ile denendi.)<br>
 <br>
 <b>Olası buglar içerebilir.</b><br>
