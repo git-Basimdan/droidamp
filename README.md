@@ -24,5 +24,6 @@ Arka planda ve kilit ekranında çalar. Mini playeri var.Arka planda ve kilit ek
 <br>
 Geri tuşuyla kapanır.<br>
 Ayarlar → Pil → Uygulama pil kullanımı → DroidAmp → "Kısıtlanmamış/Sınırsız" yapın<br>
-(marka arayüzüne göre "Otomatik başlatma"/"arka plan çalışmasına izin ver" gibi bir seçenek de olabilir).
-
+(marka arayüzüne göre "Otomatik başlatma"/"arka plan çalışmasına izin ver" gibi bir seçenek de olabilir).<br>
+<br>
+Teşekkürler.
