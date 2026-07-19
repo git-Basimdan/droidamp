@@ -19,4 +19,10 @@ Ayrıca bildirim alanına player çıkarıyor.<br>
 Tek tek çal, liste bitince başa dön, ve karışık çal düğmeleri mevcut. Basılı tutunca iptal oluyor.<br>
 Ayrıca 9 adete kadar tekrar çaldırma düğmesi. (Bildirim alanındaki playerla etkileşimli)<br>
 Ve bu tercihlere göre çalışan sonraki önceki şarkı düğmeleri.<br>
-Çok sayıda hazır ayarları da bulunan Ekolayzır
+Çok sayıda hazır ayarları da bulunan Ekolayzır.<br>
+Arka planda ve kilit ekranında çalar. Mini playeri var.Arka planda ve kilit ekranında çalar. Mini playeri var.<br>
+<br>
+Geri tuşuyla kapanır.<br>
+Ayarlar → Pil → Uygulama pil kullanımı → DroidAmp → "Kısıtlanmamış/Sınırsız" yapın<br>
+(marka arayüzüne göre "Otomatik başlatma"/"arka plan çalışmasına izin ver" gibi bir seçenek de olabilir).
+
