@@ -1,4 +1,4 @@
-<h4>DroidAmp<br></h4>
+<h4>DroidAmp Sound and Video Player<br></h4>
 <br>
 Winamp'tan esinlenilse de bir android uygulaması.<br>
 Android 9 ve üzeri tavsiye edilir. (Api 28 ile denendi.)<br>
