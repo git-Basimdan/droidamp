@@ -1,5 +1,5 @@
 <h4>DroidAmp Sound and Video Player<br></h4>
-<br><b>v1.5 bazı sorunlar giderildi.</b>
+<br><b>v1.6 video playerdaki bazı sorunlar giderildi.</b>
 <br>
 Winamp'tan esinlenilse de bir android uygulaması.<br>
 Android 9 ve üzeri tavsiye edilir. (Api 28 ile denendi.)<br>
